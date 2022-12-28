@@ -263,7 +263,7 @@
     <div class="body-container">
       <div class="navigation-bar-container">
         <div class="navigation-bar-logo">
-          <img class="logo-picture" src="/img/logo2.png" alt="logo Picture" />
+          <img class="logo-picture" src="/WEB-INF/img/logo2.png" alt="logo Picture" />
         </div>
         <div class="navigation-bar-link">
           <div class="dropdown">
